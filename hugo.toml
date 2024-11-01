@@ -1,3 +1,3 @@
-baseURL = ''
+baseURL = 'https://smile-68.github.io/HUGO/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
